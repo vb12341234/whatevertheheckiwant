@@ -1,3 +1,2 @@
 [build]
-  publish = "client"
-  functions = "functions"
+  functions = "express"
